@@ -1,0 +1,10 @@
+C:\Users\vlada_jpjkuo2.BOOK.000\Desktop\Paint\Paint\bin\Debug\Paint.exe.config
+C:\Users\vlada_jpjkuo2.BOOK.000\Desktop\Paint\Paint\bin\Debug\Paint.exe
+C:\Users\vlada_jpjkuo2.BOOK.000\Desktop\Paint\Paint\bin\Debug\Paint.pdb
+C:\Users\vlada_jpjkuo2.BOOK.000\Desktop\Paint\Paint\obj\Debug\Paint.csprojAssemblyReference.cache
+C:\Users\vlada_jpjkuo2.BOOK.000\Desktop\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+C:\Users\vlada_jpjkuo2.BOOK.000\Desktop\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+C:\Users\vlada_jpjkuo2.BOOK.000\Desktop\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+C:\Users\vlada_jpjkuo2.BOOK.000\Desktop\Paint\Paint\obj\Debug\Paint.exe
+C:\Users\vlada_jpjkuo2.BOOK.000\Desktop\Paint\Paint\obj\Debug\Paint.pdb
+C:\Users\vlada_jpjkuo2.BOOK.000\Desktop\Paint\Paint\obj\Debug\Paint.Form1.resources
